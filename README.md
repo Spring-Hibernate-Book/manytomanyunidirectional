@@ -1,2 +1,2 @@
 # many-to-many-unidirectional
-Managing one-to-many unidirectional entity
+Managing many-to-many unidirectional entity
